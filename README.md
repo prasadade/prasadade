@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasadade
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning biophysics
+- 🌱 I’m currently learning MSc biophysics
 - 💞️ I’m looking to collaborate on 
 - 📫 you can reach me at prasadade451@gmail.com
 
